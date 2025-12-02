@@ -1,5 +1,4 @@
-🚗 Vehicle & Driver Management System
-Data Structures & Algorithms Final Project — Term 4032
+# 🚗 Vehicle & Driver Management System
 
 A full, multi-phase, data-driven vehicle & driver management system implemented without ORMs, using custom data structures, manual memory management, and optimized search/sort algorithms.
 
@@ -25,7 +24,7 @@ Ranking the best drivers with an algorithm
 
 The system was implemented entirely using custom-designed data structures, no external libraries for DS/algorithms, following strict academic constraints.
 
-🌟 Key Features
+# 🌟 Key Features
 👤 User & Authentication System
 
 Register and login using:
@@ -72,7 +71,7 @@ Date range
 
 Owner
 
-🔖 License Plate Management
+# 🔖 License Plate Management
 
 Includes complete business rules:
 
@@ -90,7 +89,7 @@ Validating city codes (using citycode.txt)
 
 Plate activation/deactivation logic
 
-🛣️ Driver Management
+# 🛣️ Driver Management
 
 Drivers are distinct from owners:
 
@@ -114,7 +113,7 @@ Automatically blocking drivers with score > 500
 
 Revoking licenses completely
 
-🚨 Violation Management
+# 🚨 Violation Management
 
 Every violation includes:
 
@@ -136,7 +135,7 @@ After every violation, driver cannot receive new plates for (score/10) days
 
 Violations affect driver score but not vehicles
 
-🔁 Vehicle Buy/Sell System
+# 🔁 Vehicle Buy/Sell System
 
 Full ownership history tracking:
 
@@ -160,7 +159,7 @@ Remove a vehicle (plate becomes inactive)
 
 Retrieve complete sale history
 
-🏆 Best Driver Ranking System (Phase 4)
+# 🏆 Best Driver Ranking System (Phase 4)
 
 Based on a real private transport company model:
 
@@ -179,7 +178,7 @@ Optimized scoring algorithm
 
 This phase demonstrates strong algorithmic design.
 
-🧱 Data Structures Used
+# 🧱 Data Structures Used
 
 All data structures are written manually from scratch:
 
@@ -197,7 +196,7 @@ Custom sorting and searching algorithms
 
 No STL/ORM/third-party structures
 
-🎯 What This Project Demonstrates
+# 🎯 What This Project Demonstrates
 
 This project shows your ability to:
 
