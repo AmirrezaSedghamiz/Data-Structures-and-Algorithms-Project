@@ -1,0 +1,101 @@
+PenaltyID | DriverID | PlateNumber | PenaltyDate | PenaltyLevel | Description
+428770 | 40246972 | 28G206-44 | 2024-10-12 | High | No seatbelt
+951768 | 33528270 | 75D715-44 | 2023-03-15 | Medium | Running red light
+962343 | 17952971 | 73B338-22 | 2024-01-04 | Low | Illegal parking
+595027 | 26543530 | 61G903-31 | 2024-04-19 | High | Running red light
+494968 | 51061089 | 91D628-81 | 2024-04-21 | Medium | Phone use while driving
+882297 | 72974378 | 56F253-22 | 2024-10-11 | Low | No seatbelt
+744789 | 71651897 | 41A279-44 | 2022-05-31 | High | Phone use while driving
+148909 | 30121234 | 98B633-44 | 2022-06-30 | Medium | Phone use while driving
+764010 | 85627074 | 75D715-44 | 2025-03-29 | Medium | Illegal parking
+771059 | 24545253 | 62D604-44 | 2022-12-06 | High | No seatbelt
+523640 | 47065169 | 52A281-71 | 2023-02-23 | Low | Phone use while driving
+178333 | 41375623 | 56F689-51 | 2024-06-07 | Medium | Illegal parking
+134299 | 66684445 | 56F253-22 | 2025-05-05 | Low | Illegal parking
+984041 | 20443453 | 34G653-61 | 2024-03-31 | Low | Running red light
+739639 | 57558533 | 49C419-11 | 2022-11-07 | Low | Illegal parking
+331291 | 50812890 | 30G518-81 | 2025-02-13 | High | Phone use while driving
+742193 | 77272379 | 69E135-61 | 2024-06-21 | High | Phone use while driving
+573284 | 77272379 | 61F565-91 | 2025-04-23 | High | Phone use while driving
+139485 | 30121234 | 30G518-81 | 2023-04-28 | Medium | No seatbelt
+708497 | 24545253 | 56F253-22 | 2023-08-03 | Low | Illegal parking
+166678 | 49592210 | 91D628-81 | 2024-12-09 | Medium | Running red light
+255701 | 24545253 | 18E813-61 | 2023-08-22 | Low | Illegal parking
+837356 | 45305608 | 43C188-22 | 2024-12-23 | Medium | No seatbelt
+842549 | 51116127 | 39D628-71 | 2025-01-22 | High | Running red light
+294395 | 99540993 | 44C220-51 | 2023-08-01 | Low | No seatbelt
+699316 | 45305608 | 34G653-61 | 2025-04-15 | High | No seatbelt
+893238 | 75463635 | 98B633-44 | 2023-02-09 | High | Running red light
+376044 | 62517336 | 96H646-31 | 2023-01-28 | High | No seatbelt
+433305 | 83755044 | 18E813-61 | 2024-05-04 | High | Illegal parking
+607143 | 65354353 | 60A939-31 | 2022-06-14 | Medium | Phone use while driving
+511907 | 66684445 | 21F781-22 | 2024-03-18 | Medium | Running red light
+653570 | 17952971 | 83A741-91 | 2024-09-15 | High | Illegal parking
+162165 | 51061089 | 56F689-51 | 2024-06-05 | Low | No seatbelt
+335933 | 59335308 | 21A763-71 | 2024-10-24 | Low | Running red light
+173515 | 24545253 | 52D965-44 | 2023-08-25 | Medium | Speeding
+493816 | 41296223 | 21C133-81 | 2023-12-05 | Low | No seatbelt
+482419 | 29470695 | 30G518-81 | 2023-06-20 | High | Illegal parking
+584429 | 65354353 | 91E213-91 | 2023-03-26 | Low | Running red light
+751003 | 20443453 | 59D327-71 | 2024-01-09 | Low | Phone use while driving
+131874 | 50812890 | 74E486-22 | 2023-02-04 | High | Running red light
+775906 | 84608916 | 49C419-11 | 2022-10-07 | Medium | Running red light
+870104 | 65354353 | 21C133-81 | 2025-04-11 | Medium | Illegal parking
+818999 | 51061089 | 14E120-51 | 2023-03-10 | High | Phone use while driving
+747946 | 51061089 | 69D998-11 | 2023-10-28 | Medium | No seatbelt
+774216 | 29470695 | 74E486-22 | 2024-03-14 | Medium | Illegal parking
+817399 | 57558533 | 18E813-61 | 2024-09-21 | Low | Illegal parking
+333704 | 33528270 | 39D628-71 | 2023-10-11 | Low | No seatbelt
+190997 | 59335308 | 67F376-71 | 2024-12-05 | High | Speeding
+128119 | 59335308 | 48F334-44 | 2022-08-24 | High | Running red light
+546082 | 92871336 | 49C419-11 | 2022-06-06 | Medium | Speeding
+527132 | 57558533 | 96H646-31 | 2024-08-05 | Medium | Illegal parking
+288734 | 57558533 | 61F565-91 | 2025-01-12 | Medium | No seatbelt
+263843 | 80180093 | 94G454-91 | 2022-09-27 | High | Illegal parking
+533551 | 45616749 | 94G454-91 | 2023-10-08 | High | Running red light
+324389 | 75463635 | 75H189-91 | 2024-07-14 | High | Illegal parking
+349153 | 25706651 | 52A281-71 | 2024-07-17 | Medium | Phone use while driving
+845631 | 40131870 | 56F689-51 | 2025-02-21 | Medium | No seatbelt
+459621 | 92884883 | 96H646-31 | 2023-09-28 | Low | Running red light
+808208 | 72974378 | 39D628-71 | 2023-09-14 | Medium | Illegal parking
+199017 | 27414481 | 75D715-44 | 2023-09-11 | High | Speeding
+731793 | 51116127 | 34G653-61 | 2022-06-25 | High | Illegal parking
+626506 | 69832242 | 44C220-51 | 2022-09-04 | Low | No seatbelt
+572128 | 52173990 | 96H646-31 | 2024-06-18 | Medium | Speeding
+162619 | 42455110 | 61G903-31 | 2023-07-22 | Medium | Running red light
+626974 | 24545253 | 28A544-22 | 2023-05-17 | High | Illegal parking
+101183 | 45616749 | 56F689-51 | 2024-09-09 | High | Running red light
+938895 | 83618126 | 77A681-71 | 2023-10-28 | Low | Phone use while driving
+570174 | 84608916 | 69E135-61 | 2025-02-22 | Medium | Illegal parking
+205218 | 59335308 | 34G653-61 | 2022-07-30 | Low | No seatbelt
+824091 | 40246972 | 52D965-44 | 2025-01-16 | Medium | Phone use while driving
+467805 | 17952971 | 77A681-71 | 2025-02-17 | Low | Running red light
+641848 | 29470695 | 94G454-91 | 2023-10-19 | Low | Speeding
+906683 | 92884883 | 69E135-61 | 2023-11-16 | Medium | Phone use while driving
+657710 | 29470695 | 61F565-91 | 2024-06-15 | Low | Running red light
+350234 | 59335308 | 44C220-51 | 2022-11-04 | High | Phone use while driving
+451159 | 85139996 | 80D906-81 | 2024-03-08 | High | Speeding
+334333 | 59335308 | 34G653-61 | 2022-12-17 | Medium | Illegal parking
+701420 | 30121234 | 42D902-81 | 2023-06-27 | Low | Running red light
+211303 | 66684445 | 14E120-51 | 2024-10-24 | Medium | Phone use while driving
+326230 | 65354353 | 96H646-31 | 2022-07-17 | Low | Illegal parking
+525928 | 88734936 | 89C692-61 | 2024-11-19 | High | Running red light
+946902 | 41296223 | 21C133-81 | 2025-03-24 | High | Illegal parking
+179604 | 85627074 | 80D906-81 | 2023-11-28 | Low | Speeding
+661832 | 83755044 | 75H189-91 | 2023-03-24 | Medium | Phone use while driving
+598362 | 57558533 | 21A763-71 | 2022-06-19 | Low | Phone use while driving
+178099 | 62517336 | 33C696-61 | 2024-11-19 | Medium | No seatbelt
+207827 | 51061089 | 82D524-61 | 2024-01-04 | Medium | Speeding
+160660 | 40131870 | 41A279-44 | 2022-12-05 | Low | Running red light
+611612 | 70663263 | 21C133-81 | 2022-09-28 | Low | Speeding
+331485 | 45305608 | 39D628-71 | 2022-07-24 | High | No seatbelt
+164236 | 75463635 | 89C692-61 | 2024-11-01 | Medium | Phone use while driving
+919159 | 85627074 | 98B633-44 | 2024-02-14 | Medium | Phone use while driving
+942369 | 42455110 | 83A741-91 | 2023-11-24 | High | Running red light
+107846 | 27414481 | 70A554-81 | 2024-01-16 | High | Speeding
+374530 | 95471807 | 14E120-51 | 2022-12-16 | High | Running red light
+347370 | 62517336 | 91E213-91 | 2022-07-20 | Low | Speeding
+988628 | 51061089 | 74E486-22 | 2022-09-22 | High | Illegal parking
+775884 | 80180093 | 33C696-61 | 2024-01-23 | Medium | Speeding
+718686 | 83755044 | 33C696-61 | 2022-06-11 | Medium | Illegal parking
+656104 | 51061089 | 21A763-71 | 2024-07-21 | Medium | Illegal parking
